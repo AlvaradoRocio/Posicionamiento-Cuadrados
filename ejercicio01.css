@@ -1,0 +1,41 @@
+.total{
+    margin-top: 150px;
+    margin-left:500px;
+    flex-direction: column;
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    display:flex;
+    align-items: flex-end;
+}
+
+.uno {
+    position:static;
+    width: 100px;
+    height:100px;
+    background-color: red;
+    padding: 45px;
+    box-sizing: border-box;
+    color: white;
+}
+
+.dos{
+    position:static;
+    width: 100px;
+    height:100px;
+    padding: 45px;
+    box-sizing: border-box;
+    background-color: blue;
+    color:white;
+
+}
+.tres{
+    position:static;
+    left:200px;
+    width: 100px;
+    height:100px;
+    background-color: green;
+    color: white;
+    padding: 45px;
+    box-sizing: border-box;
+}

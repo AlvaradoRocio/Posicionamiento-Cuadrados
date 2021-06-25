@@ -1,0 +1,38 @@
+.contenedor{
+    display: flex;
+    background-color: white;
+    border: 2px solid black;
+    flex-direction: row;
+    align-content: space-between;
+    justify-content: space-between;
+}
+
+.uno{
+    color:white;
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    padding-top: 45px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.dos{
+    color:white;
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    padding-top: 45px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.tres{
+    color:white;
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    padding-top: 45px;
+    text-align: center;
+    box-sizing: border-box;
+}
